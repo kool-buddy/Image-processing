@@ -50,7 +50,7 @@ The model was evaluated using the collected tram and car data, resulting in an a
 ----------------------------------------------------------------------------------------------------------
 Conclusion
 
-This project demonstrates the successful classification of tram and car sounds using a CNN model trained on MFCC features. The approach leverages insights from human hearing, emphasizing frequency-related features to achieve high accuracy. The "images" folder in the uploaded zip file includes relevant plots of the features used in the analysis.
+This project demonstrates the successful classification of tram and car sounds using a CNN model trained on MFCC features. The approach leverages insights from human hearing, emphasizing frequency-related features to achieve high accuracy. 
 
 ----------------------------------------------------------------------------------------------------------
 Feel free to explore the code and data in this repository to gain a deeper understanding of the project and its outcomes. Your feedback and contributions are highly appreciated.
